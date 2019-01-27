@@ -17,3 +17,11 @@
 
 **Links to Work:**
 [Survey Form](https://codepen.io/potatomaverick/pen/RvWeXK)
+
+### Day 2: January 26th, 2019
+**Today's Progress:** Worked a little bit on Survey Form Project.  Added a tiny bit of CSS.  Read up a bit on freeCodeCamp and W3Schools to refresh.  Started using Git Bash to push commits from local to Github.
+
+**Thoughts:** Really felt accomplished despite my minimal progress on the actual project.  Pushing via Git Bash rather than Github felt like a big step.  I'm eager to learn more of the intracacies of Git and growing progressively more comfortable using it.
+
+**Links to Work:**
+[Survey Form](https://codepen.io/potatomaverick/pen/RvWeXK)
