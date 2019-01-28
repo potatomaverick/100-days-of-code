@@ -25,3 +25,11 @@
 
 **Links to Work:**
 [Survey Form](https://codepen.io/potatomaverick/pen/RvWeXK)
+
+### Day 3: January 27th, 2019
+**Today's Progress:** Worked on Survey Project again.  Added classes and implemented a CSS grid.  Project is now better organized visually and CSS style has been applied in a more efficient manner.
+
+**Thoughts:** Definitely muddled through some things, but I think I understand the difference between *class* and *id* better now.  Also was good to implement a CSS Grid and get a feel for that outside of the brief feeCodeCamp challenge.  Another day where I wish I had done some more, but it was nice to enjoy a bit of free time on a weekend.
+
+**Links to Work:**
+[Survey Form](https://codepen.io/potatomaverick/pen/RvWeXK)
