@@ -33,3 +33,11 @@
 
 **Links to Work:**
 [Survey Form](https://codepen.io/potatomaverick/pen/RvWeXK)
+
+### Day 4: January 28th, 2019
+**Today's Progress:** Finished the basic form of the Survey Project on freeCodeCamp.  Retooled the CSS Grid format, added CSS style elements to the page, and added the topical questions and answers for the survey.
+
+**Thoughts:** Its basic, but it is *technically* finished!  I'll do some more editing to it later, but for now its good.  I want to move on the the Product Landing Page project tomorrow.  
+
+**Links to Work:**
+[Survey Form](https://codepen.io/potatomaverick/pen/RvWeXK)
