@@ -41,3 +41,11 @@
 
 **Links to Work:**
 [Survey Form](https://codepen.io/potatomaverick/pen/RvWeXK)
+
+### Day 5: January 29th, 2019
+**Today's Progress:** Started Product Landing Page Project on freeCodeCamp.  Laid basic HTML structure. Reviewed some HTML and CSS to refresh.
+
+**Thoughts:** Probably should have done more than this, but progress is progress.  Got too distracted reviewing. I'm eager to move onto Javascript so that should be good motivation for picking up the pace with these projects!
+
+**Links to Work:**
+[Product Landing Page](https://codepen.io/potatomaverick/pen/BMQyRw)
