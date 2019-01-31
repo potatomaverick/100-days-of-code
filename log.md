@@ -49,3 +49,11 @@
 
 **Links to Work:**
 [Product Landing Page](https://codepen.io/potatomaverick/pen/BMQyRw)
+
+### Day 6: January 30th, 2019
+**Today's Progress:** Worked on the CSS for Product Landing Page project.  Added Flex Box properties. Further reading on HTML/CSS.
+
+**Thoughts:** Definitely did a lot of reviewing/searching on freeCodeCamp and W3Schools.  Tires were spinning a lot more than I would have liked, but I still got something noticeable done.  Even though I struggled a bit, I feel content knowing that its days like this that really solidify the learning process.
+
+**Links to Work:**
+[Product Landing Page](https://codepen.io/potatomaverick/pen/BMQyRw)
