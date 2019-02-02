@@ -57,3 +57,11 @@
 
 **Links to Work:**
 [Product Landing Page](https://codepen.io/potatomaverick/pen/BMQyRw)
+
+### Day 7: February 1st, 2019
+**Today's Progress:** Added video to Product Landing page project.  Made some minor amendments to HTML and CSS. Now meeting 13/16 basic requirements for project.
+
+**Thoughts:** Real life happened on January 31st and I didn't get to do any coding.  Per the rules at https://www.100daysofcode.com/faq/ I am okay to continue as normal - I just need to add another day on at the end.  I felt guilty missing a day, but these things happen.  I'm pretty determined to do *A LOT* over the weekend.
+
+**Links to Work:**
+[Product Landing Page](https://codepen.io/potatomaverick/pen/BMQyRw)
