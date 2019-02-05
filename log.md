@@ -72,4 +72,4 @@
 **Thoughts:** Guilty conscience again - didn't do enough since the 1st.  Technically I've broken the official rules, but going to soldier on!  I should be done with the basic solution for the product landing page soon.  Once that's done I'm going to try to finish up the last two as expediently as possible.  Then, I can go back and refactor some of the projects a bit and add some more content.  I'm very eager to start Javascript Algos and Data Structures Cert on FCC, but I know I need to make sure I've done a decent job on the Rsponsive Web Design projects first.
 
 **Links to Work:**
-[Product Landing Page](https://codepen.io/potatomaverick/pen/BMQyRw
+[Product Landing Page](https://codepen.io/potatomaverick/pen/BMQyRw)
