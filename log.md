@@ -66,10 +66,19 @@
 **Links to Work:**
 [Product Landing Page](https://codepen.io/potatomaverick/pen/BMQyRw)
 
-### Day 8: February 5th, 2019
+### Day 8: February 4th, 2019
 **Today's Progress:** Amended HTML and CSS on Product Landing page.  Solved issues with nav links and HTML validation on email submit form. Have now completed 15 of 16 user stories.
 
 **Thoughts:** Guilty conscience again - didn't do enough since the 1st.  Technically I've broken the official rules, but going to soldier on!  I should be done with the basic solution for the product landing page soon.  Once that's done I'm going to try to finish up the last two as expediently as possible.  Then, I can go back and refactor some of the projects a bit and add some more content.  I'm very eager to start Javascript Algos and Data Structures Cert on FCC, but I know I need to make sure I've done a decent job on the Rsponsive Web Design projects first.
 
 **Links to Work:**
 [Product Landing Page](https://codepen.io/potatomaverick/pen/BMQyRw)
+
+### Day 8: February 5th, 2019
+**Today's Progress:** Completed all user stories for the Product Landing Page.  Laid HTML structure for Technical Documentation Page Project for freeCodeCamp and completed 12 of 16 user stories.
+
+**Thoughts:** I'll need to refactor the Product Landing Page like my other projects that I've "*completed*." I may strip it down and rework a bit since I don't like how the CSS turned out.  Definitely need to work on grasping flexbox and media queries.  Still, I'd like to work ahead and complete the remaining projects soon so I can get to refactoring the earlier ones this week.  Getting ever-so closer to the Responsive Web Design certification!
+
+**Links to Work:**
+1. [Product Landing Page](https://codepen.io/potatomaverick/pen/BMQyRw)
+2. [Technical Documentation Page](https://codepen.io/potatomaverick/pen/PVJOYG)
