@@ -90,3 +90,11 @@
 
 **Links to Work:**
 [Technical Documentation Page](https://codepen.io/potatomaverick/pen/PVJOYG)
+
+### Day 11: February 7th, 2019
+**Today's Progress:** Completed 7 of 12 user stories for the Personal Portfolio Webpage Project on freeCodeCamp. Laid initial structural HTML and started some of the CSS styling.
+
+**Thoughts:** This will be the first project that I finish satisfactorily from the start.  After I'm finished with this, I ***need*** to go back and refactor all other projects.  Once I have some confidence built up, I'll put them on the FCC forums for some review/criticism.  Excited and nervous!
+
+**Links to Work:**
+[Personal Portfolio Webpage Project](https://codepen.io/potatomaverick/pen/MLrGZN)
