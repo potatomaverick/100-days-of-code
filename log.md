@@ -98,3 +98,11 @@
 
 **Links to Work:**
 [Personal Portfolio Webpage Project](https://codepen.io/potatomaverick/pen/MLrGZN)
+
+### Day 12: February 8th, 2019
+**Today's Progress:** Did some more work on HTML and CSS for the Personal Portfolio project on freeCodeCamp.  Spent a good amount of time reading up on FCC and W3Schools as well.
+
+**Thoughts:** Would have liked to have gotten more done, but pretty tired tonight.  I'll be doing a good amount of work over the weekend, as I'd really like to get my portfolio site looking nice and maybe do some CS50 since I keep saying I'll get back to it.  If I have time, I'll go back and refactor my previous projects to get them up to snuff too.
+
+**Links to Work:**
+[Personal Portfolio Webpage Project](https://codepen.io/potatomaverick/pen/MLrGZN)
