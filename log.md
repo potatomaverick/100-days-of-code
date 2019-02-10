@@ -106,3 +106,11 @@
 
 **Links to Work:**
 [Personal Portfolio Webpage Project](https://codepen.io/potatomaverick/pen/MLrGZN)
+
+### Day 13: February 9th, 2019
+**Today's Progress:** Finished all user stories for the Personal Portfolio project on FCC.  Spent decent amount of time researching typical sources for HTML and CSS.
+
+**Thoughts:** Mainly messed with the CSS side of things today.  Needed to do a little HTML wrangling, but cleaning up the CSS was the main issue today.  Feeling pretty good.  Next I want to do more styling and structural work to really round this project out.  After that, its back to refactor the other projects.  I sound like a broken record, but I'll get to CS50 if I can.
+
+**Links to Work:**
+[Personal Portfolio Webpage Project](https://codepen.io/potatomaverick/pen/MLrGZN)
