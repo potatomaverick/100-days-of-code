@@ -114,3 +114,12 @@
 
 **Links to Work:**
 [Personal Portfolio Webpage Project](https://codepen.io/potatomaverick/pen/MLrGZN)
+
+### Day 14: February 10th, 2019
+**Today's Progress:** Worked some more on Personal Portfolio Page project on FCC.  Added social/profile icons, did some general styling and cleaned it up a bit.  Also cleaned up Tribute Page project and added blockquote.
+
+**Thoughts:** Finished the bulk of work I wanted to do on the Personal Portfolio project, so that's good!  Now I'm cleaning up and refactoring older projects and then posting on the FCC Forums for some feedback/criticism.  Should be helpful!  Each day it feels like more and more makes sense.  Using flexgrid today came pretty quick once I reviewed for a minute.
+
+**Links to Work:**
+1. [Personal Portfolio Webpage Project](https://codepen.io/potatomaverick/pen/MLrGZN)
+2. [Tribute Page](https://codepen.io/potatomaverick/pen/KJPMeq)
