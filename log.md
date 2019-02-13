@@ -123,3 +123,11 @@
 **Links to Work:**
 1. [Personal Portfolio Webpage Project](https://codepen.io/potatomaverick/pen/MLrGZN)
 2. [Tribute Page](https://codepen.io/potatomaverick/pen/KJPMeq)
+
+### Day 15: February 12th, 2019
+**Today's Progress:** Read recommendations for Survey Project that I posted on FCC Forums.  Removed border box and started to amend responsiveness via @media query.
+
+**Thoughts:** Really frustrating today that I didn't get more done. I couldn't figure out how to make the border box behave when viewing the site from mobile, so I just got rid of it.  Looks better now on mobile, but it now accentuates all the whitespace.  Need to fix that next.  It doesn't help that even after taking a day off yesterday, I'm still really tired.  Guess I'll have to do more tomorrow.  Discouraged a bit, but I'll bounce back!
+
+**Links to Work:**
+[Survey Form](https://codepen.io/potatomaverick/pen/RvWeXK)
