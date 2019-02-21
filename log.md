@@ -131,3 +131,8 @@
 
 **Links to Work:**
 [Survey Form](https://codepen.io/potatomaverick/pen/RvWeXK)
+
+### Day 16: February 20th, 2019
+**Today's Progress:** Completed a portion of the Basic Javascript section on freeCodeCamp.
+
+**Thoughts:** Its been awhile - glad to be coding again!  As you might see from my Twitter - @abarrydev - I needed to take a break from coding in order to get my priorities realigned and apply some much needed self-care.  Truth be told, I was obsessing a bit too much and not getting enough sleep.  That, combined with some travel for my day job, meant that I needed to take some personal time and get more sleep too.  I wasn't planning on restarting this until 2/28 or 3/1, but I managed to get comfortable and find some time today.  It feels great!
