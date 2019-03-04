@@ -141,3 +141,8 @@
 **Today's Progress:** Continued to work through the Javascript section of freeCodeCamp again today.
 
 **Thoughts:** Slow, steady and relaxed pace.  Still, feels good to get something done. As mentioned before, I'll ramp it up once I'm back from travelling for work.  For now... its time to get some sleep!
+
+### Day 18: March 3rd, 2019
+**Today's Progress:** Reviewed previous Javascript lessons and continued to work through the Javascript section of freeCodeCamp again today.
+
+**Thoughts:** Back for real now!  Been too busy with life and work related duties as mentioned before and on my Twitter @abarrydev.  Since its been a while, I went back and redid the FCC Basic Javascript lessons I had already completed and continued to work through it.  I'm about 2/3 of the way through now, so on the home stretch!  Still plenty to do, but I'm up to the challenge.  Sidenote - felt immensely rewarding to get stuck on a couple lessons and work my way through it without any extra help.
