@@ -146,3 +146,9 @@
 **Today's Progress:** Reviewed previous Javascript lessons and continued to work through the Javascript section of freeCodeCamp again today.
 
 **Thoughts:** Back for real now!  Been too busy with life and work related duties as mentioned before and on my Twitter @abarrydev.  Since its been a while, I went back and redid the FCC Basic Javascript lessons I had already completed and continued to work through it.  I'm about 2/3 of the way through now, so on the home stretch!  Still plenty to do, but I'm up to the challenge.  Sidenote - felt immensely rewarding to get stuck on a couple lessons and work my way through it without any extra help.
+
+### Day 19: March 4th, 2019
+**Today's Progress:** Continued with the Basic Javascript section of freeCodeCamp.
+
+**Thoughts:** Only worked for a couple of hours and I was already pretty tired when I started.  Still, made some progress. I felt pretty good that I understood what was going on while solving the Golf and Blackjack problems.  Blackjack in particular was a bit tricky.  Still a bit left to go, but I need to ensure I get enough sleep!
+
