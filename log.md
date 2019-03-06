@@ -152,3 +152,7 @@
 
 **Thoughts:** Only worked for a couple of hours and I was already pretty tired when I started.  Still, made some progress. I felt pretty good that I understood what was going on while solving the Golf and Blackjack problems.  Blackjack in particular was a bit tricky.  Still a bit left to go, but I need to ensure I get enough sleep!
 
+### Day 20: March 5th, 2019
+**Today's Progress:** Continued (again) with the Basic Javascript section of freeCodeCamp.
+
+**Thoughts:** I really wanted to finsh today, but the last quarter or so of the FCC lessons on Basic JS is much more time consuming than I thought.  Doesn't help that I've been doing these a bit later at night and I'm getting tired as I try to finish them.  Back at it again tomorrow.
