@@ -156,3 +156,8 @@
 **Today's Progress:** Continued (again) with the Basic Javascript section of freeCodeCamp.
 
 **Thoughts:** I really wanted to finsh today, but the last quarter or so of the FCC lessons on Basic JS is much more time consuming than I thought.  Doesn't help that I've been doing these a bit later at night and I'm getting tired as I try to finish them.  Back at it again tomorrow.
+
+### Day 21: March 6th, 2019
+**Today's Progress:** More JS Basics work on freeCodeCamp. Worked through the JSON Record Collection problem, iterating through loops and nesting loops.
+
+**Thoughts:** This ending portion is tough!  I sound like a broken record, but its true.  Its taking a lot longer to solve these, but it feels pretty rewarding when I do.  I think I'm starting to grasp some of the JS concepts better as I work on these tougher problems.
