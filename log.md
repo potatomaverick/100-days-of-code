@@ -166,3 +166,8 @@
 **Today's Progress:** Finished the JS Basics challenges on freeCodeCamp.  Went back and reviewed some of them as well to test my knowledge.
 
 **Thoughts:** Glad to have finished the Basic JS section finally.  Tomorrow I'm going to do a bit of review on the tougher challenges and then move onto the ES6 portion.
+
+### Day 23: March 9th, 2019
+**Today's Progress:** Reviewed some Basic JS from freeCodeCamp.
+
+**Thoughts:** Took a day off due to some plans last night.  Tonight, didn't have as much time as I planned on, so I just went back and did more practice on the Basic JS section again.  Thinking I'll sit down tomorrow and block out some more time than usual to start the ES6 portion for sure.
