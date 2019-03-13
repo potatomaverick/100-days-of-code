@@ -176,3 +176,8 @@
 **Today's Progress:** Worked through portion of ES6 and majority of Regex on freeCodeCamp.
 
 **Thoughts:** Started working on ES6 section of JS on FCC and really struggled.  It was infuriating. After researching others' experiences, it appears that's a common issue and may be worked on in the future curriculum. I'll certainly go back to it, but it made sense to stop struggling without learning much and be more productive with another section.  Regex appears to be back to a familiar difficulty level akin to the Basic JS section. Nearly worked through all of it, but stopped because it got late and I really need to get some sleep for work tomorrow.  Damn Daylight Savings Time...
+
+### Day 25: March 12th, 2019
+**Today's Progress:** Finshed Regex Section on freeCodeCamp
+
+**Thoughts:** Happy to finish this up.  Some of the last few challenges were actually some pretty good excercises.  It may have been easier if I hadn't had a bit of a break in-between sessions though. Excited to start Debugging next!
