@@ -181,3 +181,8 @@
 **Today's Progress:** Finshed Regex Section on freeCodeCamp
 
 **Thoughts:** Happy to finish this up.  Some of the last few challenges were actually some pretty good excercises.  It may have been easier if I hadn't had a bit of a break in-between sessions though. Excited to start Debugging next!
+
+### Day 26: March 14th, 2019
+**Today's Progress:** Started Debugging Section on freeCodeCamp
+
+**Thoughts:** Debugging makes sense and going through it isn't too complicated, so that's a good thing. Didn't quite finish it up though.  That's okay - this week has been an "every other day" sort of week due to work and my need for mental breaks and sleep.  I don't need to bog this down with too many thoughts though... I'll finish up tomorrow and be on to the next one!
